@@ -11,8 +11,9 @@ header {
 }
 
 .77777 {
-  width: 70px;
-  height: 70px;
+  width: 120px;
+  height: auto;
+  margin: 10px 0;
 }
 
 h1 { margin: 0 0 10px; font-size: 32px; }
