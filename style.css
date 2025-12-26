@@ -11,7 +11,7 @@ header {
 }
 
 .77777 {
-  width: 120px;
+  max-width: 120px;
   height: auto;
   margin: 10px 0;
 }
